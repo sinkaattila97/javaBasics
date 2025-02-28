@@ -1,0 +1,7 @@
+1. FirstLambdas.java
+2. MoreLambdas.java
+3. SomeMapping.java
+4. PrimitiveLambdas.java
+5. ChainingLambdas.java
+6. CreatingComparators.java
+7. UsingComparator.java
